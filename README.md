@@ -1,4 +1,4 @@
-This model is provided for testing purposes, and you may fine-tune its parameters to suit your specific needs. After extensive testing, it has proven to be the most efficient model for video generation in terms of:
+This model is provided for testing purposes, and you may fine-tune its parameters to suit your specific needs. 
 
 Minimizing computational time
 Ensuring high-quality final output, including adherence to prompts, smooth transitions, and sufficient variation through editing cuts
