@@ -1,7 +1,5 @@
-# my_disco_diffusion
-- This is only for testing use, you may adjust it to develop your own parameters. 
-- After several tests, this is the most effient model I got to generate video. It optimize: 
-  - Computational time consumend 
-  - Good quility of the final video such as: following the prompts, fair smothness, and enough cuts to keep some of the variations.
+This model is provided for testing purposes, and you may fine-tune its parameters to suit your specific needs. After extensive testing, it has proven to be the most efficient model for video generation in terms of:
 
-Keep in mind that the time consumend is also related to the video length and the desired resolution.
+Minimizing computational time
+Ensuring high-quality final output, including adherence to prompts, smooth transitions, and sufficient variation through editing cuts
+Please note that the time consumed by this model also depends on the length of the video and the desired resolution. Always consider these factors when optimizing for efficiency and quality.
